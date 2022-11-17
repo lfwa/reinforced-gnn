@@ -1,0 +1,7 @@
+comet_ml==3.8.1
+pandas==1.2.4
+numpy==1.20.2
+scikit_learn==0.24.1
+torch==1.7.1+cu101
+pytorch-lightning==1.2.1
+scikit-surprise==1.1.1
